@@ -1,3 +1,11 @@
+h1 {
+  text-align: center; }
+
 body {
-  background: #eeffcc;
-}
+  background: #ccddff; }
+
+.centerbox {
+  text-align: center;
+  border: 1px solid black;
+  margin-left: 200px;
+  margin-right: 200px; }
